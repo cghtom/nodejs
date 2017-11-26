@@ -1,0 +1,11 @@
+{
+  "author": "cgh",
+  "name": "cgh1",
+  "version": "0.1.1",
+  "description": "xxx",
+  "main": "xxx",
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}

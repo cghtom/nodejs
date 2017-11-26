@@ -1,0 +1,19 @@
+{
+  "author": "Brad Dayley",
+  "name": "cgh1",
+  "version": "0.1.1",
+  "description": "xxx",
+  "main": "xxx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cghtom/nodejs/cgh/cgh1"
+  },
+  "keywords": [
+    "xxx",
+    "cgh1"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
